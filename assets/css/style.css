@@ -1,0 +1,45 @@
+
+* {
+    box-sizing: border-box;
+    text-align:center;
+}
+
+
+.name {
+
+    font-family: 'Georgia', Times, Times 'Times New Roman', Times, serif, serif;
+    background-color: #2590a3;
+    text-align: center;
+    color: white;
+    margin-left: 250px;
+    margin-top: 20px;
+    margin-right: 450px;
+    padding: 5px;
+    border: 80px;
+    float: left;
+}
+
+.links {
+    float: left;
+    padding-top: 40px;
+    
+}
+
+.BoxA {
+    text-align: left;
+    margin-left:150px;
+    margin-right:150px;
+    width: 960px;
+    height: 550px;
+    overflow: hidden;
+    background-color: white ;
+    font-size: 30px;
+    clear: both;   
+
+}
+
+.about {
+    float: left;
+    padding: 20px;
+    color: #2590a3;
+}
